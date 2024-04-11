@@ -8,7 +8,7 @@ export default function App({ Component }: PageProps) {
         <title>fresh-parcial</title>
         <link rel="stylesheet" href="/styles.css" />
       </head>
-      <body>
+      <body class="body">
         <Component />
       </body>
     </html>
